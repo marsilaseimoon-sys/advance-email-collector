@@ -1,3 +1,5 @@
+# advance-email-collector
+Real-time email scraper with FastAPI backend &amp; React frontend. Streams emails live as pages are scanned. Features: depth control, deduplication, CSV/TXT export, dark UI.
 # Advance Email Collector — Swift Tool
 
 ## Backend chalayein:
@@ -22,3 +24,4 @@ npm start
 - Max pages limit
 - CSV + TXT export
 - Dark professional UI
+
